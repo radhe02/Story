@@ -1,2 +1,2 @@
 First chapter. This is start of the project
-.
+. Now master this file is added to master.
